@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-65f270d8","path":"/category/mac/","title":"MAC 分类","lang":"zh-CN","frontmatter":{"title":"MAC 分类","dir":{"index":false},"feed":false,"sitemap":false,"blog":{"type":"category","name":"MAC","key":"category"},"layout":"BlogCategory"},"headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"excerpt":""}');export{e as data};

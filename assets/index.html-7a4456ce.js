@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-65f2f64a","path":"/category/net/","title":"NET 分类","lang":"zh-CN","frontmatter":{"title":"NET 分类","dir":{"index":false},"feed":false,"sitemap":false,"blog":{"type":"category","name":"NET","key":"category"},"layout":"BlogCategory"},"headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"excerpt":""}');export{e as data};
